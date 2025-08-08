@@ -243,3 +243,8 @@ li {
   list-style: none;
   color: #575757;
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+}
